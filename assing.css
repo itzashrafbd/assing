@@ -1,11 +1,11 @@
 .color {
     color: white;
-    text-shadow: 2px;
+    text-shadow: 1px;
     background-image: url(./images/Banner\ Image.png);
     background-size: cover center center;
     background-color: #000000;
     text-align: center;
-    padding: 210px;
+    padding: 220px;
     margin: 40px;
 
 
@@ -121,9 +121,9 @@ main {
 
 .child-1 {
     width: 33%;
-
-    border-radius;
-
+    border: red;
+    border-radius: 100%;
+    padding: 50px
 }
 
 #border-1 {
@@ -145,4 +145,99 @@ main {
 #year {
     font-size: 48;
     color: rgb(231, 4, 4);
+}
+
+.main-div {
+    text-align: center;
+    margin-right: 126px;
+
+}
+
+#main-h1 {
+    font-size: 70;
+
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+
+#fifty {
+    color: rgb(231, 4, 4);
+}
+
+#gif color: rgb(224, 2, 2);
+}
+
+#p-one {
+    font-size: 13px;
+}
+
+.container {
+    display: flex;
+    gap: auto;
+
+
+}
+
+.container-sc {
+    display: flex;
+
+}
+
+.holi-btn {
+    width: 100%;
+    height: 662px;
+    position: relative;
+}
+
+.holi-btn {
+    background-image: url(./images/botton.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 229px;
+    width: 100%;
+    bottom: 0;
+}
+
+.bg-img .boxx {
+    position: absolute;
+    bottom: 0;
+}
+
+.bg-img .girl {
+    position: absolute;
+    top: -189;
+    right: 0;
+    z-index: -1;
+}
+
+.bg-img .fifth {
+    position: absolute;
+    z-index: 2;
+    top: -150%;
+    right: 21%;
+}
+
+.all {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+}
+
+.first {
+    margin-left: 5%;
+}
+
+#eml-p {
+    font-size: 13px;
+}
+
+.last {
+    text-align: center;
+    background-color: rgb(233, 214, 214);
+    padding: 40px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
